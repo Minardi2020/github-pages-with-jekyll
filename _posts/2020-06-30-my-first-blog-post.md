@@ -1,5 +1,5 @@
 ---
-title: "Your blog post title"
+title: "1er jour sur GitHub"
 date: 2020-06-30
 ---
 
